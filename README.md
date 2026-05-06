@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Job Seeker in Java Developer on technology Java, ReactJS, MySQL, Python, Django, MongoDB and other technologies. <br>I am pursuing Bachelor of Technology in Computer Science & Engineering from I.K. Gujral Punjab Technical University<br>
+I am Job Seeker in Software Development on technology Java, ReactJS, MySQL, Python, Django, MongoDB and other technologies. <br>I am pursuing Bachelor of Technology in Computer Science & Engineering from I.K. Gujral Punjab Technical University<br>
 
 
 ## 🌐 Socials:
